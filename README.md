@@ -1,7 +1,5 @@
 # ReceiptIQ
 
-**Scan. Track. Stay Smart.**
-
 ReceiptIQ is a mobile application built with Flutter that allows users to scan receipts and automatically track their spending. The app uses on-device OCR (Optical Character Recognition) to extract key information from receipts and provides simple spending insights.
 
 ---
